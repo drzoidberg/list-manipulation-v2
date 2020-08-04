@@ -2,6 +2,13 @@
 
 array-functions-v2 is a simple project that focuses on putting into practice array manipulation using array methods.
 
+## 🔎 It explores
+- the concept of separation of concerns
+- the concept of array manipulation
+
+## 🧾 It uses
+- commonJS for separating the functions into files and folders
+
 It uses commonJS modules for separating the functions into files and folders, in an attempt to separate concerns.
 
 ## 🛠 Installation & 🚀 Usage
@@ -19,4 +26,5 @@ npm start
 
 ## 🚧 Roadmap
 - [x] use .filter(), .forEach(), .map(), .reduce() and .sort() synchronously
-- [ ] similar operations consuming an external API
+- [ ] explore methods of creating unique
+- [ ] use similar operations consuming an external API
