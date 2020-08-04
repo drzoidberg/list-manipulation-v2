@@ -1,7 +1,8 @@
-const persons = require('../../dataset/persons');
+const personsSync = require('../../dataset/persons.Sync');
+const personsASync = require('../../dataset/persons.Async');
 
-const personsArr = Array.from(persons);
 
-const forEachResults = persons
+
+const forEachResults = 'forEachResults'
 
 module.exports = forEachResults;

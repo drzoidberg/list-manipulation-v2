@@ -1,4 +1,6 @@
-const persons = require('../../dataset/persons');
+const personsSync = require('../../dataset/persons.Sync');
+const personsASync = require('../../dataset/persons.Async');
+
 
 const filterResults = 'filterResults'
 // const filterResults = persons.filter(person => person.status === 'Alive')
