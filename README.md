@@ -20,11 +20,3 @@ npm start
 ## 🚧 Roadmap
 - [x] use .filter(), .forEach(), .map(), .reduce() and .sort() synchronously
 - [ ] similar operations consuming an external API
-
-## ((Contributing (optional)
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## ((License (optional)
-[MIT](https://choosealicense.com/licenses/mit/)
