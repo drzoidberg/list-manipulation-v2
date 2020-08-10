@@ -1,5 +1,5 @@
-const randomNumbers = (amount) => {
+const randomNumbersGenerator = (amount) => {
     return [...Array(amount)].map(() => Math.floor(Math.random() * 9));
 }
 
-module.exports = randomNumbers;
+module.exports = randomNumbersGenerator;
