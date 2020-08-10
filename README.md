@@ -1,6 +1,6 @@
-# array-functions-v2
+# list-manipulation-v2
 
-array-functions-v2 is a simple project that focuses on putting into practice array manipulation using array methods.
+list-manipulation-v2 is a simple project that focuses on putting into practice list elements manipulation using array and object methods and basic programming techniques.
 
 ## 🔎 It explores
 - the concept of separation of concerns
@@ -13,11 +13,11 @@ It uses commonJS modules for separating the functions into files and folders, in
 
 ## 🛠 Installation & 🚀 Usage
 
-Use the node package manager [npm](https://npmjs.com/) to install array-functions-v2.
+Use the node package manager [npm](https://npmjs.com/) to install list-manipulation-v2.
 
 ```javascript
 // for the installation
-cd ./array-functions-v2
+cd ./list-manipulation-v2
 npm i
 
 // for running the project
