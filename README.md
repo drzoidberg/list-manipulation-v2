@@ -21,10 +21,10 @@ cd ./list-manipulation-v2
 npm i
 
 // for running the project
-npm start
+npm run monitor
 ```
 
 ## 🚧 Roadmap
 - [x] use .filter(), .forEach(), .map(), .reduce() and .sort() synchronously
-- [ ] explore methods of creating unique
+- [ ] explore methods of testing unique results
 - [ ] use similar operations consuming an external API
